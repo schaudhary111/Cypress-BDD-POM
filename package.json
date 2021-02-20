@@ -1,0 +1,22 @@
+{
+  "name": "cypress-bdd-pom",
+  "version": "1.0.0",
+  "description": "Cypress Automation using BDD and POM model",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schaudhary111/Cypress-BDD-POM.git"
+  },
+  "author": "Sandeep Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/schaudhary111/Cypress-BDD-POM/issues"
+  },
+  "homepage": "https://github.com/schaudhary111/Cypress-BDD-POM#readme",
+  "devDependencies": {
+    "cypress": "^4.0.1"
+  }
+}
